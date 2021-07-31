@@ -23,3 +23,9 @@
 ## Footer Section
     
     The footer section contains the &copy with credit to Horiseon
+
+## Link to Page
+https://davido1214.github.io/The-Manager/
+
+## Webpage Screenshot
+![screenshot](assets/images/screenshot.png)
